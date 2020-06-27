@@ -1,0 +1,11 @@
+---
+name: "SmallRye Reactive Messaging - Camel Connector"
+metadata:
+  short-name: "camel"
+  keywords:
+  - "camel"
+  - "reactive-camel"
+  guide: "https://quarkus.io/guides/camel"
+  categories:
+  - "messaging"
+  status: "preview"
